@@ -3,6 +3,6 @@ body {
 }
 
 .background-image {
-  filter: blur(8px);
+  filter: blur(4px);
   transform: scale(1.1);
 }
